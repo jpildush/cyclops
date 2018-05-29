@@ -14,7 +14,7 @@ Virtual Reality is a relatively new development path in gaming, training, experi
 ### Components and Requirements
 
 * Minimum Desktop/Laptop Hardware Requirements:
-	* Operating System – Windows 8.1 or newer
+	* Operating System – Windows 7 or newer (Oculus recommends Windows 10)
 	* Graphics Card – NVIDIA GTX 960 / AMD Radeon R9 290 or equivalent
 	* CPU – Intel i3-6100 / AMD Ryzen 3 1200, FX4350 or equivalent
 	* RAM – 8GB or greater
